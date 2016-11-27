@@ -33,8 +33,8 @@ public class MainActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         getSupportActionBar().setDisplayShowHomeEnabled(true);
-        getSupportActionBar().setIcon(R.drawable.ic_action_name);
-        getSupportActionBar().setTitle("Multas y sanciones");
+        getSupportActionBar().setIcon(R.mipmap.ic_launcherwhite);
+        getSupportActionBar().setTitle("    Multas y sanciones");
         // Create the adapter that will return a fragment for each of the three
         // primary sections of the activity.
         mSectionsPagerAdapter = new SectionsPagerAdapter(getSupportFragmentManager());
@@ -45,16 +45,13 @@ public class MainActivity extends AppCompatActivity {
 
         TabLayout tabLayout = (TabLayout) findViewById(R.id.tabs);
         tabLayout.setupWithViewPager(mViewPager);
-
-
-
     }
 
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.menu_main, menu);
+        getMenuInflater().inflate(R.menu.menu_m/opt/android-studio/plugins/android/lib/templates/gradle-projects/NewAndroidModule/root/res/mipmap-xxxhdpi/ic_launcher.pngain, menu);
         return true;
     }
 

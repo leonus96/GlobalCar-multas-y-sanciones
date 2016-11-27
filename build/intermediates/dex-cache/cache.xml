@@ -25,7 +25,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="6d067edd03a2b7ffa8fb57ae4273e00f55218d65">
+        sha1="cc76bc60db79078b9f7bb4e2e7bd9ca129f5758f">
         <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f0ad3ee87ba0a392dc3c26d2311190ecb6e37b45/classes.dex" />
     </item>
     <item
@@ -88,7 +88,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="9155db2fa2fcfd47ad1085ae77bb3562b889f221">
+        sha1="7f34e2bbee3ad33efdd5e6ab102b67a337d1487e">
         <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c2e859bbba986e06dcad2c4c751d497066eef4f2/classes.dex" />
     </item>
     <item

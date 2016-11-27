@@ -1,5 +1,7 @@
 package layout;
 
+import android.app.Dialog;
+import android.content.Context;
 import android.content.DialogInterface;
 import android.content.res.AssetManager;
 import android.os.Bundle;
@@ -10,6 +12,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ListView;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.leonus96.joseph.tablistview.ListViewAdapter;
@@ -22,7 +25,10 @@ import org.json.JSONObject;
 
 import java.io.InputStream;
 import java.util.ArrayList;
+import java.util.Date;
+import java.util.GregorianCalendar;
 import java.util.List;
+import java.util.zip.Inflater;
 
 
 public class fragmentList extends Fragment {
@@ -67,7 +73,12 @@ public class fragmentList extends Fragment {
                     @Override
                     public void onItemClick(AdapterView<?> adapterView, View view, int position, long id) {
                         //Toast.makeText(getActivity(), "Click en " + multasLeves.get(position).getCodigo(), Toast.LENGTH_SHORT).show();
-                        AlertDialog dialog = createDialog(multasLeves.get(position));
+                        Multa currentMulta = multasLeves.get(position);
+                        LayoutInflater inflater  = (LayoutInflater) getActivity().getSystemService(Context.LAYOUT_INFLATER_SERVICE);
+                        View dialogo = inflater.inflate(R.layout.dialogo, null);
+
+
+                        AlertDialog dialog = createDialog(currentMulta, dialogo);
                         dialog.show();
                     }
                 });
@@ -78,7 +89,12 @@ public class fragmentList extends Fragment {
                 listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
                     @Override
                     public void onItemClick(AdapterView<?> adapterView, View view, int position, long id) {
-                        AlertDialog dialog = createDialog(multasGraves.get(position));
+                        Multa currentMulta = multasGraves.get(position);
+                        LayoutInflater inflater  = (LayoutInflater) getActivity().getSystemService(Context.LAYOUT_INFLATER_SERVICE);
+                        View dialogo = inflater.inflate(R.layout.dialogo, null);
+
+
+                        AlertDialog dialog = createDialog(currentMulta, dialogo);
                         dialog.show();
                     }
                 });
@@ -89,7 +105,12 @@ public class fragmentList extends Fragment {
                 listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
                     @Override
                     public void onItemClick(AdapterView<?> adapterView, View view, int position, long id) {
-                        AlertDialog dialog = createDialog(multasMuyGraves.get(position));
+                        Multa currentMulta = multasMuyGraves.get(position);
+                        LayoutInflater inflater  = (LayoutInflater) getActivity().getSystemService(Context.LAYOUT_INFLATER_SERVICE);
+                        View dialogo = inflater.inflate(R.layout.dialogo, null);
+
+
+                        AlertDialog dialog = createDialog(currentMulta, dialogo);
                         dialog.show();
                     }
                 });
@@ -137,11 +158,23 @@ public class fragmentList extends Fragment {
         return json;
     }
 
-    public AlertDialog createDialog(Multa multa) {
+    public AlertDialog createDialog(Multa multa, View dialogo) {
         final AlertDialog.Builder builder = new AlertDialog.Builder(getActivity());
+        TextView infraccion = (TextView) dialogo.findViewById(R.id.infraccion);
+        TextView monto = (TextView) dialogo.findViewById(R.id.monto);
+        TextView uit = (TextView) dialogo.findViewById(R.id.uit);
+        TextView puntos = (TextView) dialogo.findViewById(R.id.puntos);
+        TextView descuento = (TextView) dialogo.findViewById(R.id.descuento);
 
-        builder.setTitle(multa.getCodigo())
-                .setMessage(multa.getInfraccion())
+        infraccion.setText(multa.getInfraccion());
+        monto.setText("S./ " + multa.getMonto());
+        uit.setText(" (4% del UIT)");
+        puntos.setText("- " + multa.getPuntos() + " puntos en su record.");
+        descuento.setText("S./" + multa.getConDescuento() + " con el " +  multa.getConDescuento()*100/multa.getMonto() + "% hasta 5 dias");
+        builder
+                .setTitle(multa.getCodigo())
+                //.setMessage(multa.getInfraccion())
+                .setView(dialogo)
                 .setNegativeButton("CERRAR",
                         new DialogInterface.OnClickListener() {
                             @Override
