@@ -1,6 +1,6 @@
 package layout;
 
-import android.app.Dialog;
+
 import android.content.Context;
 import android.content.DialogInterface;
 import android.content.res.AssetManager;
@@ -13,7 +13,6 @@ import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ListView;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.leonus96.joseph.tablistview.ListViewAdapter;
 import com.leonus96.joseph.tablistview.Multa;
@@ -25,10 +24,8 @@ import org.json.JSONObject;
 
 import java.io.InputStream;
 import java.util.ArrayList;
-import java.util.Date;
-import java.util.GregorianCalendar;
 import java.util.List;
-import java.util.zip.Inflater;
+
 
 
 public class fragmentList extends Fragment {
@@ -167,10 +164,12 @@ public class fragmentList extends Fragment {
         TextView descuento = (TextView) dialogo.findViewById(R.id.descuento);
 
         infraccion.setText(multa.getInfraccion());
-        monto.setText("S./ " + multa.getMonto());
-        uit.setText(" (4% del UIT)");
-        puntos.setText("- " + multa.getPuntos() + " puntos en su record.");
-        descuento.setText("S./" + multa.getConDescuento() + " con el " +  multa.getConDescuento()*100/multa.getMonto() + "% hasta 5 dias");
+        monto.setText("S./ " + multa.getMonto() + "0");
+        uit.setText(" ("+ multa.getMonto()*100/3950 + "% del UIT).");
+        puntos.setText("+" + multa.getPuntos() + " puntos a su record.");
+        if (!(multa.getMonto() == multa.getConDescuento())){
+            descuento.setText("S./ " + multa.getConDescuento() + " (" +  multa.getConDescuento()*100/multa.getMonto() + "%) hasta en 5 dias.");
+        }
         builder
                 .setTitle(multa.getCodigo())
                 //.setMessage(multa.getInfraccion())

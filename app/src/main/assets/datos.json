@@ -726,12 +726,375 @@
   "muy_graves": [
     {
       "codigo": "M01",
-      "infraccion": " Hacer uso de bocinas de descarga de aire comprimido en el ámbito urbano.",
-      "tipo": "Leve",
-      "monto": 158.00,
-      "con_descuento": 26.86,
+      "infraccion": "Conducir con presencia de alcohol en la sangre en proporción mayor a lo previsto en el Código Penal, o bajo los efectos de estupefacientes, narcóticos y/o alucinógenos comprobado con el exámen respectivo o por negarse al mismo y que haya participado en un accidente de tránsito.",
+      "tipo": "Muy Grave",
+      "monto": 3950.00,
+      "con_descuento": 3950.00,
+      "sancion": "Multa y cancelación de la licencia de conducir e inhabilitación definitiva para obtener licencia	",
+      "puntos": 0
+    },
+    {
+      "codigo": "M02",
+      "infraccion": "Conducir con presencia de alcohol en la sangre en proporción mayor a lo previsto en el Código Penal, bajo los efectos de estupefacientes, narcóticos y/o alucinógenos comprobada con el exámen respectivo o por negarse al mismo.",
+      "tipo": "Muy Grave",
+      "monto": 1975.00	,
+      "con_descuento": 1975.00	,
       "sancion": "Multa",
-      "puntos": 5
+      "puntos": 0
+    },
+    {
+      "codigo": "M03",
+      "infraccion": "Conducir un vehículo automotor sin tener licencia de conducir o permiso provisional.",
+      "tipo": "Muy Grave",
+      "monto": 1975.00	,
+      "con_descuento": 1975.00	,
+      "sancion": "Multa",
+      "puntos": 0
+    },
+    {
+      "codigo": "M04",
+      "infraccion": "Conducir vehículos estando la licencia de conducir retenida, suspendida o estando inhabilitado para obtener licencia de conducir.",
+      "tipo": "Muy Grave",
+      "monto": 3950.00	,
+      "con_descuento": 3950.00	,
+      "sancion": "Multa",
+      "puntos": 0
+    },
+    {
+      "codigo": "M05",
+      "infraccion": "Conducir un vehículo con Licencia de Conducir cuya clase o categoría no corresponde al vehículo que conduce.	",
+      "tipo": "Muy Grave",
+      "monto": 1975.00	,
+      "con_descuento": 1975.00	,
+      "sancion": "Multa",
+      "puntos": 70
+    },
+    {
+      "codigo": "M06",
+      "infraccion": "Estacionar en las curvas, puentes, túneles, zonas estrechas de la vía, pasos a nivel, pasos a desnivel en cambios de rasante, pendientes y cruces de ferrocarril.",
+      "tipo": "Muy Grave",
+      "monto": 948.00	,
+      "con_descuento": 948.00	,
+      "sancion": "Multa",
+      "puntos": 60
+    },
+    {
+      "codigo": "M07",
+      "infraccion": "Participar en competencias de velocidad en eventos no autorizados.",
+      "tipo": "Muy Grave",
+      "monto": 948.00	,
+      "con_descuento": 948.00	,
+      "sancion": "Multa",
+      "puntos": 60
+    },{
+      "codigo": "M08",
+      "infraccion": "Permitir a un menor de edad la conducción de un vehículo automotor, sin autorización o permiso provisional.",
+      "tipo": "Muy Grave",
+      "monto": 948.00	,
+      "con_descuento": 948.00	,
+      "sancion": "Multa",
+      "puntos": 60
+    },
+    {
+      "codigo": "M09",
+      "infraccion": "Conducir un vehículo con cualquiera de sus sistemas de dirección, frenos, suspensión, luces o eléctrico en mal estado, previa inspección técnica vehicular.",
+      "tipo": "Muy Grave",
+      "monto": 948.00	,
+      "con_descuento": 948.00	,
+      "sancion": "Multa",
+      "puntos": 60
+    },{
+      "codigo": "M10",
+      "infraccion": "Abastecer de combustible un vehículo del servicio de transporte público de pasajeros con personas a bordo del vehículo.	",
+      "tipo": "Muy Grave",
+      "monto": 474.00	,
+      "con_descuento": 80.58	,
+      "sancion": "Multa",
+      "puntos": 50
+    },
+    {
+      "codigo": "M11",
+      "infraccion": "Conducir vehículos de las categorías M o N sin parachoques o dispositivo antiempotramiento cuando corresponda; o un vehículo de la categoría L5 sin parachoques posterior, conforme a lo establecido en el Reglamento Nacional de Vehículos.",
+      "tipo": "Muy Grave",
+      "monto": 474.00	,
+      "con_descuento": 80.58,
+      "sancion": "Multa",
+      "puntos": 50
+    },
+    {
+      "codigo": "M12",
+      "infraccion": "No detenerse al aproximarse a un vehículo de transporte escolar debidamente identificado que está recogiendo o dejando escolares.",
+      "tipo": "Muy Grave",
+      "monto": 474.00	,
+      "con_descuento": 474.00	,
+      "sancion": "Multa",
+      "puntos": 50
+    },
+    {
+      "codigo": "M13",
+      "infraccion": "Conducir un vehículo con neumático(s), cuya banda de rodadura presente desgaste inferior al establecido en el Reglamento Nacional de Vehículos.",
+      "tipo": "Muy Grave",
+      "monto": 474.00	,
+      "con_descuento": 80.58,
+      "sancion": "Multa",
+      "puntos": 50
+    },
+    {
+      "codigo": "M14",
+      "infraccion": "No detenerse al llegar a un cruce ferroviario a nivel o reiniciar la marcha sin haber comprobado que no se aproxima tren o vehículo ferroviario, o cruzar la vía ferrea por lugares distintos a los cruces a nivel establecidos.",
+      "tipo": "Muy Grave",
+      "monto": 474.00	,
+      "con_descuento": 80.58,
+      "sancion": "Multa",
+      "puntos": 50
+    },
+    {
+      "codigo": "M15",
+      "infraccion": "Circular produciendo contaminación en un índice superior a los límites máximos permisibles de emisión de gases contaminantes.",
+      "tipo": "Muy Grave",
+      "monto": 474.00	,
+      "con_descuento": 80.58,
+      "sancion": "Multa",
+      "puntos": 50
+    },{
+      "codigo": "M16",
+      "infraccion": "Circular en sentido contrario al tránsito autorizado.	",
+      "tipo": "Muy Grave",
+      "monto": 474.00	,
+      "con_descuento": 474.00,
+      "sancion": "Multa",
+      "puntos": 50
+    },{
+      "codigo": "M17",
+      "infraccion": "Cruzar una intersección o girar, estando el semáforo con luz roja y no existiendo la indicación en contrario.",
+      "tipo": "Muy Grave",
+      "monto": 474.00	,
+      "con_descuento": 474.00	,
+      "sancion": "Multa",
+      "puntos": 50
+    },{
+      "codigo": "M18",
+      "infraccion": "Desobedecer las indicaciones sobre el tránsito que ordene el efectivo de la Policía Nacional del Perú asignado al control del tránsito.	",
+      "tipo": "Muy Grave",
+      "monto": 474.00	,
+      "con_descuento": 80.58,
+      "sancion": "Multa",
+      "puntos": 50
+    },{
+      "codigo": "M19",
+      "infraccion": "Conducir vehículos sin cumplir con las restricciones que consigna la Licencia de Conducir.	",
+      "tipo": "Muy Grave",
+      "monto": 474.00	,
+      "con_descuento": 80.58,
+      "sancion": "Multa",
+      "puntos": 50
+    },
+    {
+      "codigo": "M20",
+      "infraccion": "No respetar los límites máximo o mínimo de velocidad establecidos.",
+      "tipo": "Muy Grave",
+      "monto": 711.00	,
+      "con_descuento": 711.00	,
+      "sancion": "Multa",
+      "puntos": 50
+    },
+    {
+      "codigo": "M21",
+      "infraccion": "Estacionar interrumpiendo totalmente el tránsito.",
+      "tipo": "Muy Grave",
+      "monto": 474.00	,
+      "con_descuento": 474.00	,
+      "sancion": "Multa",
+      "puntos": 50
+    },
+    {
+      "codigo": "M22",
+      "infraccion": "Detenerse para cargar o descargar mercancías en la calzada y/o en los lugares que puedan constituir un peligro u obstáculo o interrumpan la circulación.	",
+      "tipo": "Muy Grave",
+      "monto": 474.00	,
+      "con_descuento": 80.58,
+      "sancion": "Multa",
+      "puntos": 50
+    },
+    {
+      "codigo": "M23",
+      "infraccion": "Estacionar o detener el vehículo en el carril de circulación, en carreteras o caminos donde existe berma lateral.	",
+      "tipo": "Muy Grave",
+      "monto": 474.00	,
+      "con_descuento": 474.00	,
+      "sancion": "Multa",
+      "puntos": 50
+    },
+    {
+      "codigo": "M24",
+      "infraccion": "Circular sin placas de rodaje o sin el permiso correspondiente.",
+      "tipo": "Muy Grave",
+      "monto": 474.00	,
+      "con_descuento": 80.58,
+      "sancion": "Multa",
+      "puntos": 50
+    },
+    {
+      "codigo": "M25",
+      "infraccion": "No dar preferencia de paso a los vehíuclos de emergencia y vehículos oficiales cuando hagan uso de sus señales audibles y visibles.	",
+      "tipo": "Muy Grave",
+      "monto": 474.00	,
+      "con_descuento": 80.58	,
+      "sancion": "Multa",
+      "puntos": 50
+    },
+    {
+      "codigo": "M26",
+      "infraccion": "Conducir un vehículo especial que no se ajuste a las exigencias reglamentarias sin la autorización correspondiente.",
+      "tipo": "Muy Grave",
+      "monto": 474.00	,
+      "con_descuento": 80.58,
+      "sancion": "Multa",
+      "puntos": 50
+    },
+    {
+      "codigo": "M27",
+      "infraccion": "Conducir un vehículo que no cuente con el certificado de aprobación de inspección técnica vehicular. Esta infracción no aplica para el caso de los vehiculos L5 de la clasificación vehicular",
+      "tipo": "Muy Grave",
+      "monto": 1975.00	,
+      "con_descuento": 1975.00	,
+      "sancion": "Multa",
+      "puntos": 50
+    },
+    {
+      "codigo": "M28",
+      "infraccion": "Conducir un vehículo sin contar con la póliza del Seguro Obligatorio de Accidentes de Tránsito, o Certificado de Accidentes de Tránsito, cuando corresponda, o éstos no se encuentre vigente.",
+      "tipo": "Muy Grave",
+      "monto": 474.00	,
+      "con_descuento": 474.00	,
+      "sancion": "Multa",
+      "puntos": 50
+    },
+    {
+      "codigo": "M29",
+      "infraccion": "Deteriorar intencionalmente, adulterar, destruir o sustraer las Placas de exhibición, rotativa o transitoria .	",
+      "tipo": "Muy Grave",
+      "monto": 474.00	,
+      "con_descuento": 474.00	,
+      "sancion": "Multa",
+      "puntos": 50
+    },
+    {
+      "codigo": "M30",
+      "infraccion": "Usar las placas de exhibición, rotativa o transitoria fuera del plazo, horario o ruta establecida o cuando esta ha caducado o ha sido invalidada.	",
+      "tipo": "Muy Grave",
+      "monto": 474.00	,
+      "con_descuento": 80.58,
+      "sancion": "Multa",
+      "puntos": 50
+    },
+    {
+      "codigo": "M31",
+      "infraccion": "Utilizar las placas de exhibición, rotativa o transitoria en vehículos a los que no se encuentren asignadas.",
+      "tipo": "Muy Grave",
+      "monto": 474.00	,
+      "con_descuento": 474.00	,
+      "sancion": "Multa",
+      "puntos": 50
+    },
+    {
+      "codigo": "M32",
+      "infraccion": "Tramitar u obtener duplicado, recategorización, revalidación, canje o nueva licencia de conducir de cualquier clase, por el infractor cuya licencia de conducir se encuentre retenida, suspendida o cancelada o se encuentre inhabilitado para obtenerla.	",
+      "tipo": "Muy Grave",
+      "monto": 474.00	,
+      "con_descuento": 474.00	,
+      "sancion": "Multa",
+      "puntos": 50
+    },
+    {
+      "codigo": "M33",
+      "infraccion": "Operar maquinaria especial por la vía pública.",
+      "tipo": "Muy Grave",
+      "monto": 474.00	,
+      "con_descuento": 80.58,
+      "sancion": "Multa",
+      "puntos": 50
+    },
+    {
+      "codigo": "M34",
+      "infraccion": "Circular produciendo ruidos que superen los límites máximos permisibles.",
+      "tipo": "Muy Grave",
+      "monto": 474.00	,
+      "con_descuento": 80.58,
+      "sancion": "Multa",
+      "puntos": 50
+    },
+    {
+      "codigo": "M35",
+      "infraccion": "Voltear en U sobre la misma calzada, en las curvas, puentes, pasos a desnivel, vías expresas, túneles, estructuras elevadas, cima de cuesta, cruce ferroviario a nivel.	",
+      "tipo": "Muy Grave",
+      "monto": 474.00	,
+      "con_descuento": 80.58,
+      "sancion": "Multa",
+      "puntos": 50
+    },
+    {
+      "codigo": "M36",
+      "infraccion": "Transportar carga sin los dispositivos de sujeción o seguridad establecidos.	",
+      "tipo": "Muy Grave",
+      "monto": 474.00	,
+      "con_descuento": 80.58,
+      "sancion": "Multa",
+      "puntos": 50
+    },
+    {
+      "codigo": "M37",
+      "infraccion": "Conducir y ocasionar un accidente de tránsito con daños personales inobservando las normas de tránsito dispuestas en el presente Reglamento.	",
+      "tipo": "Muy Grave",
+      "monto": 0.00,
+      "con_descuento": 0.00,
+      "sancion": "Multa",
+      "puntos": 50
+    },
+    {
+      "codigo": "M38",
+      "infraccion": "Conducir un vehículo para el servicio de transporte público y ocasionar un accidente de tránsito con daños personales inobservando las normas de tránsito dispuestas por el presente Reglamento.	",
+      "tipo": "Muy Grave",
+      "monto": 0.00	,
+      "con_descuento": 0.00,
+      "sancion": "Multa",
+      "puntos": 0
+    },
+    {
+      "codigo": "M39",
+      "infraccion": "Conducir y ocasionar un accidente de tránsito con lesiones graves o muerte inobservando las normas de tránsito dispuestas en el presente Reglamento.	",
+      "tipo": "Muy Grave",
+      "monto": 0.00	,
+      "con_descuento": 0.00,
+      "sancion": "Multa",
+      "puntos": 0
+    },
+    {
+      "codigo": "M40",
+      "infraccion": "Conducir un vehiculo con la licencia de conducir vencida	",
+      "tipo": "Muy Grave",
+      "monto": 197.50,
+      "con_descuento": 33.58,
+      "sancion": "Multa",
+      "puntos": 50
+    },
+    {
+      "codigo": "M41",
+      "infraccion": "Circular, interrumpir y/o impedir el tránsito, en situaciones de desastre natural o emergencia, incumpliendo las disposiciones de la autoridad competente para la restricción de acceso a las vías	",
+      "tipo": "Muy Grave",
+      "monto": 5925.00	,
+      "con_descuento": 1007.25,
+      "sancion": "Multa",
+      "puntos": 20
+    },
+    {
+      "codigo": "M42",
+      "infraccion": "Conducir un vehiculo de la categoria L5 de la clasificación vehicular, que no cuente con el certificado de aprobacíón de inspección técnica vehicular	",
+      "tipo": "Muy Grave",
+      "monto": 197.50,
+      "con_descuento": 197.50,
+      "sancion": "Multa",
+      "puntos": 50
     }
   ]
 }
