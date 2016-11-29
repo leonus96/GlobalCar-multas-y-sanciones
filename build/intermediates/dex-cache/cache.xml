@@ -11,6 +11,15 @@
         <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_3dcb2de26bebaf81713f137a1c2a454d77a3b8e8/classes.dex" />
     </item>
     <item
+        is-multidex="false"
+        jar="/home/joseph/Descargas/TabListView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-25.0.0_d8207402044e6f8b46d471ec5e9ee27ad764af55.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="/home/joseph/Descargas/TabListView/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
         jumboMode="true"
@@ -20,21 +29,12 @@
         <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_ade24c9c53bdaf2dac48c4b41b5d2af12fd35618/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/joseph/Descargas/TabListView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
-        <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_d8207402044e6f8b46d471ec5e9ee27ad764af55.jar" />
-    </item>
-    <item
         is-multidex="true"
         jar="/home/joseph/Descargas/TabListView/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="46c4b0a17932932b16fa7f6138cf7a0beb1c5c45">
+        sha1="067908b6e1ba73ddb27e6d26cebe30d37cdc7e17">
         <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f0ad3ee87ba0a392dc3c26d2311190ecb6e37b45/classes.dex" />
     </item>
     <item
@@ -53,7 +53,7 @@
         optimize="true"
         revision="25.0.0"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_3dcb2de26bebaf81713f137a1c2a454d77a3b8e8.jar" />
+        <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-25.0.0_3dcb2de26bebaf81713f137a1c2a454d77a3b8e8.jar" />
     </item>
     <item
         is-multidex="false"
@@ -62,7 +62,16 @@
         optimize="true"
         revision="25.0.0"
         sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
-        <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_ade24c9c53bdaf2dac48c4b41b5d2af12fd35618.jar" />
+        <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/pre-dexed/release/internal_impl-25.0.0_ade24c9c53bdaf2dac48c4b41b5d2af12fd35618.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/joseph/Descargas/TabListView/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/pre-dexed/release/com.android.support-design-25.0.0_5d05e8ac0cff5b2bd26d96e3df69a8551648a4fa.jar" />
     </item>
     <item
         is-multidex="true"
@@ -75,12 +84,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/joseph/Descargas/TabListView/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jar="/home/joseph/Descargas/TabListView/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
-        <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.0_5d05e8ac0cff5b2bd26d96e3df69a8551648a4fa.jar" />
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-25.0.0_a0564d7dcd9461267356d40c5e1bd8ae17fb737f.jar" />
     </item>
     <item
         is-multidex="true"
@@ -90,15 +99,6 @@
         revision="25.0.0"
         sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
         <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_d8207402044e6f8b46d471ec5e9ee27ad764af55/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/joseph/Descargas/TabListView/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
-        <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_a0564d7dcd9461267356d40c5e1bd8ae17fb737f.jar" />
     </item>
     <item
         is-multidex="true"
@@ -116,7 +116,7 @@
         optimize="true"
         revision="25.0.0"
         sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
-        <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.0_468bdcf4474e0ace08e3097bf7b0d1ee6d65ce2d.jar" />
+        <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-25.0.0_468bdcf4474e0ace08e3097bf7b0d1ee6d65ce2d.jar" />
     </item>
     <item
         is-multidex="false"
@@ -125,7 +125,7 @@
         optimize="true"
         revision="25.0.0"
         sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
-        <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_4ca32ebdc23b85aaeeceeec9d7c88090e2c01f5d.jar" />
+        <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-25.0.0_4ca32ebdc23b85aaeeceeec9d7c88090e2c01f5d.jar" />
     </item>
     <item
         is-multidex="true"
@@ -137,6 +137,15 @@
         <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_543bdc3f2c7d0c44124ef75e156cf9d6786bcb9a/classes.dex" />
     </item>
     <item
+        is-multidex="false"
+        jar="/home/joseph/Descargas/TabListView/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/pre-dexed/release/internal_impl-25.0.0_7962cb6dc6c5bd8c6fb3dc9ac3b55e4b30d53e63.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="/home/joseph/Descargas/TabListView/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
         jumboMode="true"
@@ -146,21 +155,12 @@
         <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_c547e7b106b58b0d8f62d45a411ccf758ed47961/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/home/joseph/Descargas/TabListView/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
-        <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_7962cb6dc6c5bd8c6fb3dc9ac3b55e4b30d53e63.jar" />
-    </item>
-    <item
         is-multidex="true"
         jar="/home/joseph/Descargas/TabListView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="f2b215d909ce68fba50e1ab258c5d7a93a8c60dc">
+        sha1="e4df360dcc3755a6c3be66860873965035773b9e">
         <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c2e859bbba986e06dcad2c4c751d497066eef4f2/classes.dex" />
     </item>
     <item
@@ -170,7 +170,7 @@
         optimize="true"
         revision="25.0.0"
         sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
-        <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_543bdc3f2c7d0c44124ef75e156cf9d6786bcb9a.jar" />
+        <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-25.0.0_543bdc3f2c7d0c44124ef75e156cf9d6786bcb9a.jar" />
     </item>
     <item
         is-multidex="true"
@@ -206,7 +206,7 @@
         optimize="true"
         revision="25.0.0"
         sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
-        <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_031ad9271e35739902a197ac354e3cd0e25e59c5.jar" />
+        <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-25.0.0_031ad9271e35739902a197ac354e3cd0e25e59c5.jar" />
     </item>
     <item
         is-multidex="true"
@@ -216,6 +216,15 @@
         revision="25.0.0"
         sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
         <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_d91b95e40373ffcbe9ac4ce48339f0da95f84b3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/joseph/Descargas/TabListView/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-25.0.0_bf80b6de57d294a0f3f562b7a3192651d67d8a61.jar" />
     </item>
     <item
         is-multidex="true"
@@ -228,21 +237,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/joseph/Descargas/TabListView/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="26674000177e45447a0326a6ad84612761199a13">
-        <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_bf80b6de57d294a0f3f562b7a3192651d67d8a61.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/joseph/Descargas/TabListView/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
-        <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_d91b95e40373ffcbe9ac4ce48339f0da95f84b3e.jar" />
+        <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-25.0.0_d91b95e40373ffcbe9ac4ce48339f0da95f84b3e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -251,7 +251,7 @@
         optimize="true"
         revision="25.0.0"
         sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
-        <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_29745f8ffbc7eddea2a1313ff5c0255b06ab9e74.jar" />
+        <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-25.0.0_29745f8ffbc7eddea2a1313ff5c0255b06ab9e74.jar" />
     </item>
     <item
         is-multidex="false"
@@ -260,7 +260,7 @@
         optimize="true"
         revision="25.0.0"
         sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
-        <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_c547e7b106b58b0d8f62d45a411ccf758ed47961.jar" />
+        <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/pre-dexed/release/internal_impl-25.0.0_c547e7b106b58b0d8f62d45a411ccf758ed47961.jar" />
     </item>
     <item
         is-multidex="false"
@@ -269,7 +269,7 @@
         optimize="true"
         revision="25.0.0"
         sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
-        <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_703861c6443b3df210824961e6df55d205b690af.jar" />
+        <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/pre-dexed/release/internal_impl-25.0.0_703861c6443b3df210824961e6df55d205b690af.jar" />
     </item>
     <item
         is-multidex="true"
@@ -296,7 +296,7 @@
         optimize="true"
         revision="25.0.0"
         sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
-        <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_97e480bec4c502b807c7259c587e1a21c9ac0d1c.jar" />
+        <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/pre-dexed/release/support-annotations-25.0.0_97e480bec4c502b807c7259c587e1a21c9ac0d1c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -305,7 +305,7 @@
         optimize="true"
         revision="25.0.0"
         sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_0d0fc0f37addde5a1d4a1c91535522dc8c79dee4.jar" />
+        <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/pre-dexed/release/internal_impl-25.0.0_0d0fc0f37addde5a1d4a1c91535522dc8c79dee4.jar" />
     </item>
     <item
         is-multidex="false"
@@ -314,7 +314,7 @@
         optimize="true"
         revision="25.0.0"
         sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
-        <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.0_afa4e83722e2aab432fb75e93a03483ef735ec13.jar" />
+        <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/pre-dexed/release/com.android.support-transition-25.0.0_afa4e83722e2aab432fb75e93a03483ef735ec13.jar" />
     </item>
     <item
         is-multidex="true"
@@ -327,21 +327,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/joseph/Descargas/TabListView/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
-        <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_afa4e83722e2aab432fb75e93a03483ef735ec13/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/home/joseph/Descargas/TabListView/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
         <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_0d0fc0f37addde5a1d4a1c91535522dc8c79dee4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joseph/Descargas/TabListView/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/home/joseph/Descargas/TabListView/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_afa4e83722e2aab432fb75e93a03483ef735ec13/classes.dex" />
     </item>
 
 </items>
