@@ -16,6 +16,7 @@ public class Multa {
     private float conDescuento;
     private String sancion;
     private int puntos;
+    private String medidaPreventiva;
 
     public Multa(int puntos, String infraccion, String tipo, float monto, float conDescuento, String sancion, String codigo) {
         this.puntos = puntos;
@@ -35,6 +36,7 @@ public class Multa {
         this.conDescuento = Float.parseFloat(jsonObject.getString("con_descuento"));
         this.sancion = jsonObject.getString("sancion");
         this.puntos = jsonObject.getInt("puntos");
+        this.medidaPreventiva = jsonObject.getString("medida-preventiva");
     }
 
     public String getCodigo() {
@@ -91,5 +93,13 @@ public class Multa {
 
     public void setPuntos(int puntos) {
         this.puntos = puntos;
+    }
+
+    public String getMedidaPreventiva() {
+        return medidaPreventiva;
+    }
+
+    public void setMedidaPreventiva(String medidaPreventiva) {
+        this.medidaPreventiva = medidaPreventiva;
     }
 }

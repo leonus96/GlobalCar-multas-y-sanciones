@@ -162,6 +162,7 @@ public class fragmentList extends Fragment {
         TextView uit = (TextView) dialogo.findViewById(R.id.uit);
         TextView puntos = (TextView) dialogo.findViewById(R.id.puntos);
         TextView descuento = (TextView) dialogo.findViewById(R.id.descuento);
+        TextView medidadPreventiva = (TextView) dialogo.findViewById(R.id.medida_preventiva);
 
         infraccion.setText(multa.getInfraccion());
         monto.setText("S./ " + multa.getMonto() + "0");
@@ -169,6 +170,11 @@ public class fragmentList extends Fragment {
         puntos.setText("+" + multa.getPuntos() + " puntos a su record.");
         if (!(multa.getMonto() == multa.getConDescuento())){
             descuento.setText("S./ " + multa.getConDescuento() + " (" +  multa.getConDescuento()*100/multa.getMonto() + "%) hasta en 5 dias.");
+        }
+        if(!multa.getMedidaPreventiva().equals("")){
+            medidadPreventiva.setText(multa.getMedidaPreventiva());
+        }else {
+            medidadPreventiva.setVisibility(View.GONE);
         }
         builder
                 .setTitle(multa.getCodigo())

@@ -7,7 +7,8 @@
       "monto": 158.00,
       "con_descuento": 26.86,
       "sancion": "Multa",
-      "puntos": 5
+      "puntos": 5,
+      "medida-preventiva": ""
     },
     {
       "codigo": "L02",
@@ -16,7 +17,8 @@
       "monto": 158.00,
       "con_descuento": 26.86,
       "sancion": "Multa",
-      "puntos": 5
+      "puntos": 5,
+      "medida-preventiva": "Remoción del vehículo"
     },
     {
       "codigo": "L03",
@@ -25,7 +27,8 @@
       "monto": 158.00,
       "con_descuento": 26.86,
       "sancion": "Multa",
-      "puntos": 5
+      "puntos": 5,
+      "medida-preventiva": ""
     },
     {
       "codigo": "L04",
@@ -34,7 +37,8 @@
       "monto": 158.00,
       "con_descuento": 26.86,
       "sancion": "Multa",
-      "puntos": 5
+      "puntos": 5,
+      "medida-preventiva": ""
     },
     {
       "codigo": "L05",
@@ -43,7 +47,8 @@
       "monto": 158.00,
       "con_descuento": 26.86,
       "sancion": "Multa",
-      "puntos": 5
+      "puntos": 5,
+      "medida-preventiva": ""
     },
     {
       "codigo": "L06",
@@ -52,7 +57,8 @@
       "monto": 158.00,
       "con_descuento": 26.86,
       "sancion": "Multa",
-      "puntos": 5
+      "puntos": 5,
+      "medida-preventiva": ""
     },
     {
       "codigo": "L07",
@@ -61,7 +67,8 @@
       "monto": 158.00,
       "con_descuento": 26.86,
       "sancion": "Multa",
-      "puntos": 5
+      "puntos": 5,
+      "medida-preventiva": ""
     },
     {
       "codigo": "L08",
@@ -70,7 +77,8 @@
       "monto": 158.00,
       "con_descuento": 26.86,
       "sancion": "Multa",
-      "puntos": 5
+      "puntos": 5,
+      "medida-preventiva": ""
     }
   ],
   "graves": [
@@ -81,7 +89,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G02",
@@ -90,7 +99,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G03",
@@ -99,7 +109,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G04",
@@ -108,7 +119,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G05",
@@ -117,7 +129,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G06",
@@ -126,7 +139,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G07",
@@ -135,7 +149,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G08",
@@ -144,7 +159,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G09",
@@ -153,7 +169,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G10",
@@ -162,7 +179,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G11",
@@ -171,7 +189,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": "Remoción del vehículo"
     },
     {
       "codigo": "G12",
@@ -180,7 +199,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G13",
@@ -189,7 +209,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G14",
@@ -198,7 +219,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G15",
@@ -207,7 +229,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G16",
@@ -216,7 +239,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G17",
@@ -225,7 +249,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": "Remoción del vehículo"
     },
     {
       "codigo": "G18",
@@ -234,7 +259,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G19",
@@ -243,7 +269,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": "Remoción del vehículo"
     },
     {
       "codigo": "G20",
@@ -252,7 +279,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": "Remoción del vehículo"
     },
     {
       "codigo": "G21",
@@ -261,7 +289,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": "Remoción del vehículo"
     },
     {
       "codigo": "G22",
@@ -270,7 +299,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": "Remoción del vehículo"
     },
     {
       "codigo": "G23",
@@ -279,7 +309,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G24",
@@ -288,7 +319,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G25",
@@ -297,7 +329,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": "Remoción del vehículo"
     },
     {
       "codigo": "G26",
@@ -306,7 +339,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": "Remoción del vehículo"
     },
     {
       "codigo": "G27",
@@ -315,7 +349,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G28",
@@ -324,7 +359,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G29",
@@ -333,7 +369,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G30",
@@ -342,7 +379,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G31",
@@ -351,7 +389,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G32",
@@ -360,7 +399,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": "Remoción del vehículo"
     },
     {
       "codigo": "G33",
@@ -369,7 +409,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": "Remoción del vehículo"
     },
     {
       "codigo": "G34",
@@ -378,7 +419,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G35",
@@ -387,7 +429,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G36",
@@ -396,7 +439,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G37",
@@ -405,7 +449,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G38",
@@ -414,7 +459,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G39",
@@ -423,7 +469,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G40",
@@ -432,7 +479,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": "Remoción del vehículo"
     },
     {
       "codigo": "G41",
@@ -441,7 +489,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": "Remoción del vehículo"
     },
     {
       "codigo": "G42",
@@ -450,7 +499,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": "Remoción del vehículo"
     },
     {
       "codigo": "G43",
@@ -459,7 +509,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": "Remoción del vehículo"
     },
     {
       "codigo": "G44",
@@ -468,7 +519,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": "Remoción del vehículo"
     },
     {
       "codigo": "G45",
@@ -477,7 +529,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": "Remoción del vehículo"
     },
     {
       "codigo": "G46",
@@ -486,7 +539,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": "Remoción del vehículo"
     },
     {
       "codigo": "G47",
@@ -495,7 +549,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": "Remoción del vehículo"
     },
     {
       "codigo": "G48",
@@ -504,7 +559,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": "Remoción del vehículo"
     },
     {
       "codigo": "G49",
@@ -513,7 +569,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G50",
@@ -522,7 +579,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": "Remoción del vehículo"
     },
     {
       "codigo": "G51",
@@ -531,7 +589,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": "Remoción del vehículo"
     },
     {
       "codigo": "G52",
@@ -540,7 +599,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": "Remoción del vehículo"
     },
     {
       "codigo": "G53",
@@ -549,7 +609,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G54",
@@ -558,7 +619,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": "Internamiento del vehiculo"
     },
     {
       "codigo": "G55",
@@ -567,7 +629,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": "Remoción del vehículo"
     },
     {
       "codigo": "G56",
@@ -576,7 +639,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G57",
@@ -585,7 +649,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G58",
@@ -594,7 +659,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": "Retención del vehículo"
     },
     {
       "codigo": "G59",
@@ -603,7 +669,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": "Retención del vehículo"
     },
     {
       "codigo": "G60",
@@ -612,7 +679,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": "Retención del vehículo"
     },
     {
       "codigo": "G61",
@@ -621,7 +689,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": "Retención del vehículo"
     },
     {
       "codigo": "G62",
@@ -630,7 +699,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G63",
@@ -639,7 +709,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": "Retención del vehículo"
     },
     {
       "codigo": "G64",
@@ -648,7 +719,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": "Retención del vehículo"
     },
     {
       "codigo": "G65",
@@ -657,7 +729,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G66",
@@ -666,7 +739,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G67",
@@ -675,7 +749,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G68",
@@ -684,7 +759,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G69",
@@ -693,16 +769,18 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G70",
-      "infraccion": "Detener el vehículo sobre la demarcación en el pavimento de la señal “NO BLOQUEAR CRUCE”",
+      "infraccion": "Detener el vehículo sobre la demarcación en el pavimento de la señal ?NO BLOQUEAR CRUCE?",
       "tipo": "Grave",
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G71",
@@ -711,7 +789,8 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": ""
     },
     {
       "codigo": "G72",
@@ -720,8 +799,9 @@
       "monto": 316.00,
       "con_descuento": 53.72,
       "sancion": "Multa",
-      "puntos": 20
-    },
+      "puntos": 20,
+      "medida-preventiva": ""
+    }
   ],
   "muy_graves": [
     {
@@ -731,7 +811,8 @@
       "monto": 3950.00,
       "con_descuento": 3950.00,
       "sancion": "Multa y cancelación de la licencia de conducir e inhabilitación definitiva para obtener licencia	",
-      "puntos": 0
+      "puntos": 0,
+      "medida-preventiva": "Internamiento del Vehiculo y Retencion de la Licencia"
     },
     {
       "codigo": "M02",
@@ -740,7 +821,8 @@
       "monto": 1975.00	,
       "con_descuento": 1975.00	,
       "sancion": "Multa",
-      "puntos": 0
+      "puntos": 0,
+      "medida-preventiva": "Internamiento del Vehiculo y Retencion de la Licencia"
     },
     {
       "codigo": "M03",
@@ -749,7 +831,8 @@
       "monto": 1975.00	,
       "con_descuento": 1975.00	,
       "sancion": "Multa",
-      "puntos": 0
+      "puntos": 0,
+      "medida-preventiva": "Internamiento del Vehiculo"
     },
     {
       "codigo": "M04",
@@ -758,7 +841,8 @@
       "monto": 3950.00	,
       "con_descuento": 3950.00	,
       "sancion": "Multa",
-      "puntos": 0
+      "puntos": 0,
+      "medida-preventiva": "Internamiento del Vehiculo y Retencion de la Licencia"
     },
     {
       "codigo": "M05",
@@ -767,7 +851,8 @@
       "monto": 1975.00	,
       "con_descuento": 1975.00	,
       "sancion": "Multa",
-      "puntos": 70
+      "puntos": 70,
+      "medida-preventiva": "Internamiento del Vehiculo y Retencion de la Licencia"
     },
     {
       "codigo": "M06",
@@ -776,7 +861,8 @@
       "monto": 948.00	,
       "con_descuento": 948.00	,
       "sancion": "Multa",
-      "puntos": 60
+      "puntos": 60,
+      "medida-preventiva": "Remoción del vehículo"
     },
     {
       "codigo": "M07",
@@ -785,7 +871,9 @@
       "monto": 948.00	,
       "con_descuento": 948.00	,
       "sancion": "Multa",
-      "puntos": 60
+      "puntos": 60,
+      "medida-preventiva": ""
+
     },{
       "codigo": "M08",
       "infraccion": "Permitir a un menor de edad la conducción de un vehículo automotor, sin autorización o permiso provisional.",
@@ -793,7 +881,8 @@
       "monto": 948.00	,
       "con_descuento": 948.00	,
       "sancion": "Multa",
-      "puntos": 60
+      "puntos": 60,
+      "medida-preventiva": "Retención del vehículo"
     },
     {
       "codigo": "M09",
@@ -802,7 +891,8 @@
       "monto": 948.00	,
       "con_descuento": 948.00	,
       "sancion": "Multa",
-      "puntos": 60
+      "puntos": 60,
+      "medida-preventiva": "Remoción del vehículo"
     },{
       "codigo": "M10",
       "infraccion": "Abastecer de combustible un vehículo del servicio de transporte público de pasajeros con personas a bordo del vehículo.	",
@@ -810,7 +900,8 @@
       "monto": 474.00	,
       "con_descuento": 80.58	,
       "sancion": "Multa",
-      "puntos": 50
+      "puntos": 50,
+      "medida-preventiva": ""
     },
     {
       "codigo": "M11",
@@ -819,7 +910,8 @@
       "monto": 474.00	,
       "con_descuento": 80.58,
       "sancion": "Multa",
-      "puntos": 50
+      "puntos": 50,
+      "medida-preventiva": "Retención del vehículo"
     },
     {
       "codigo": "M12",
@@ -828,7 +920,8 @@
       "monto": 474.00	,
       "con_descuento": 474.00	,
       "sancion": "Multa",
-      "puntos": 50
+      "puntos": 50,
+      "medida-preventiva": ""
     },
     {
       "codigo": "M13",
@@ -837,7 +930,8 @@
       "monto": 474.00	,
       "con_descuento": 80.58,
       "sancion": "Multa",
-      "puntos": 50
+      "puntos": 50,
+      "medida-preventiva": "Retención del vehículo"
     },
     {
       "codigo": "M14",
@@ -846,7 +940,8 @@
       "monto": 474.00	,
       "con_descuento": 80.58,
       "sancion": "Multa",
-      "puntos": 50
+      "puntos": 50,
+      "medida-preventiva": ""
     },
     {
       "codigo": "M15",
@@ -855,7 +950,8 @@
       "monto": 474.00	,
       "con_descuento": 80.58,
       "sancion": "Multa",
-      "puntos": 50
+      "puntos": 50,
+      "medida-preventiva": "Retención del vehículo"
     },{
       "codigo": "M16",
       "infraccion": "Circular en sentido contrario al tránsito autorizado.	",
@@ -863,7 +959,8 @@
       "monto": 474.00	,
       "con_descuento": 474.00,
       "sancion": "Multa",
-      "puntos": 50
+      "puntos": 50,
+      "medida-preventiva": ""
     },{
       "codigo": "M17",
       "infraccion": "Cruzar una intersección o girar, estando el semáforo con luz roja y no existiendo la indicación en contrario.",
@@ -871,7 +968,8 @@
       "monto": 474.00	,
       "con_descuento": 474.00	,
       "sancion": "Multa",
-      "puntos": 50
+      "puntos": 50,
+      "medida-preventiva": ""
     },{
       "codigo": "M18",
       "infraccion": "Desobedecer las indicaciones sobre el tránsito que ordene el efectivo de la Policía Nacional del Perú asignado al control del tránsito.	",
@@ -879,7 +977,8 @@
       "monto": 474.00	,
       "con_descuento": 80.58,
       "sancion": "Multa",
-      "puntos": 50
+      "puntos": 50,
+      "medida-preventiva": ""
     },{
       "codigo": "M19",
       "infraccion": "Conducir vehículos sin cumplir con las restricciones que consigna la Licencia de Conducir.	",
@@ -887,7 +986,8 @@
       "monto": 474.00	,
       "con_descuento": 80.58,
       "sancion": "Multa",
-      "puntos": 50
+      "puntos": 50,
+      "medida-preventiva": "Retención del vehículo"
     },
     {
       "codigo": "M20",
@@ -896,7 +996,8 @@
       "monto": 711.00	,
       "con_descuento": 711.00	,
       "sancion": "Multa",
-      "puntos": 50
+      "puntos": 50,
+      "medida-preventiva": ""
     },
     {
       "codigo": "M21",
@@ -905,7 +1006,8 @@
       "monto": 474.00	,
       "con_descuento": 474.00	,
       "sancion": "Multa",
-      "puntos": 50
+      "puntos": 50,
+      "medida-preventiva": "Remoción del vehículo"
     },
     {
       "codigo": "M22",
@@ -914,7 +1016,8 @@
       "monto": 474.00	,
       "con_descuento": 80.58,
       "sancion": "Multa",
-      "puntos": 50
+      "puntos": 50,
+      "medida-preventiva": "Remoción del vehículo"
     },
     {
       "codigo": "M23",
@@ -923,7 +1026,8 @@
       "monto": 474.00	,
       "con_descuento": 474.00	,
       "sancion": "Multa",
-      "puntos": 50
+      "puntos": 50,
+      "medida-preventiva": "Remoción del vehículo"
     },
     {
       "codigo": "M24",
@@ -932,7 +1036,8 @@
       "monto": 474.00	,
       "con_descuento": 80.58,
       "sancion": "Multa",
-      "puntos": 50
+      "puntos": 50,
+      "medida-preventiva": "Retención del vehículo"
     },
     {
       "codigo": "M25",
@@ -941,7 +1046,8 @@
       "monto": 474.00	,
       "con_descuento": 80.58	,
       "sancion": "Multa",
-      "puntos": 50
+      "puntos": 50,
+      "medida-preventiva": ""
     },
     {
       "codigo": "M26",
@@ -950,7 +1056,8 @@
       "monto": 474.00	,
       "con_descuento": 80.58,
       "sancion": "Multa",
-      "puntos": 50
+      "puntos": 50,
+      "medida-preventiva": "Retención del vehículo"
     },
     {
       "codigo": "M27",
@@ -959,7 +1066,8 @@
       "monto": 1975.00	,
       "con_descuento": 1975.00	,
       "sancion": "Multa",
-      "puntos": 50
+      "puntos": 50,
+      "medida-preventiva": "Internamiento del vehículo"
     },
     {
       "codigo": "M28",
@@ -968,7 +1076,8 @@
       "monto": 474.00	,
       "con_descuento": 474.00	,
       "sancion": "Multa",
-      "puntos": 50
+      "puntos": 50,
+      "medida-preventiva": "Retención del vehículo"
     },
     {
       "codigo": "M29",
@@ -977,7 +1086,8 @@
       "monto": 474.00	,
       "con_descuento": 474.00	,
       "sancion": "Multa",
-      "puntos": 50
+      "puntos": 50,
+      "medida-preventiva": "Retención del vehículo"
     },
     {
       "codigo": "M30",
@@ -986,7 +1096,8 @@
       "monto": 474.00	,
       "con_descuento": 80.58,
       "sancion": "Multa",
-      "puntos": 50
+      "puntos": 50,
+      "medida-preventiva": "Retención del vehículo"
     },
     {
       "codigo": "M31",
@@ -995,7 +1106,8 @@
       "monto": 474.00	,
       "con_descuento": 474.00	,
       "sancion": "Multa",
-      "puntos": 50
+      "puntos": 50,
+      "medida-preventiva": "Retención del vehículo"
     },
     {
       "codigo": "M32",
@@ -1004,7 +1116,8 @@
       "monto": 474.00	,
       "con_descuento": 474.00	,
       "sancion": "Multa",
-      "puntos": 50
+      "puntos": 50,
+      "medida-preventiva": "Retención de la licencia"
     },
     {
       "codigo": "M33",
@@ -1013,7 +1126,8 @@
       "monto": 474.00	,
       "con_descuento": 80.58,
       "sancion": "Multa",
-      "puntos": 50
+      "puntos": 50,
+      "medida-preventiva": "Remoción del vehículo"
     },
     {
       "codigo": "M34",
@@ -1022,7 +1136,8 @@
       "monto": 474.00	,
       "con_descuento": 80.58,
       "sancion": "Multa",
-      "puntos": 50
+      "puntos": 50,
+      "medida-preventiva": ""
     },
     {
       "codigo": "M35",
@@ -1031,7 +1146,8 @@
       "monto": 474.00	,
       "con_descuento": 80.58,
       "sancion": "Multa",
-      "puntos": 50
+      "puntos": 50,
+      "medida-preventiva": ""
     },
     {
       "codigo": "M36",
@@ -1040,7 +1156,8 @@
       "monto": 474.00	,
       "con_descuento": 80.58,
       "sancion": "Multa",
-      "puntos": 50
+      "puntos": 50,
+      "medida-preventiva": "Retención del vehículo"
     },
     {
       "codigo": "M37",
@@ -1049,7 +1166,8 @@
       "monto": 0.00,
       "con_descuento": 0.00,
       "sancion": "Multa",
-      "puntos": 50
+      "puntos": 50,
+      "medida-preventiva": "Internamiento del Vehiculo y Retencion de la Licencia"
     },
     {
       "codigo": "M38",
@@ -1058,7 +1176,8 @@
       "monto": 0.00	,
       "con_descuento": 0.00,
       "sancion": "Multa",
-      "puntos": 0
+      "puntos": 0,
+      "medida-preventiva": "Internamiento del Vehiculo y Retencion de la Licencia"
     },
     {
       "codigo": "M39",
@@ -1067,7 +1186,8 @@
       "monto": 0.00	,
       "con_descuento": 0.00,
       "sancion": "Multa",
-      "puntos": 0
+      "puntos": 0,
+      "medida-preventiva": "Internamiento del Vehiculo y Retencion de la Licencia"
     },
     {
       "codigo": "M40",
@@ -1076,7 +1196,8 @@
       "monto": 197.50,
       "con_descuento": 33.58,
       "sancion": "Multa",
-      "puntos": 50
+      "puntos": 50,
+      "medida-preventiva": "Retención del vehículo"
     },
     {
       "codigo": "M41",
@@ -1085,7 +1206,8 @@
       "monto": 5925.00	,
       "con_descuento": 1007.25,
       "sancion": "Multa",
-      "puntos": 20
+      "puntos": 20,
+      "medida-preventiva": "Remoción del vehículo"
     },
     {
       "codigo": "M42",
@@ -1094,7 +1216,8 @@
       "monto": 197.50,
       "con_descuento": 197.50,
       "sancion": "Multa",
-      "puntos": 50
+      "puntos": 50,
+      "medida-preventiva": "Internamiento del vehículo"
     }
   ]
 }

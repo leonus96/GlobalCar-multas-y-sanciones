@@ -44,7 +44,28 @@
         android:layout_marginLeft="35dp"
         android:layout_marginRight="25dp"
         android:layout_marginTop="1dp"
+        android:textColor="@color/colorAccent"
+        android:id="@+id/medida_preventiva"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="35dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="1dp"
         android:textColor="#388E3C"
         android:id="@+id/descuento"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:layout_marginBottom="8dp"
+        android:padding="5dp"
+        android:background="@color/colorAccent"
+        android:text="Contacto: 966888608"
+        android:gravity="center"
+        android:textColor="#ffff"/>
+
 
 </LinearLayout>
