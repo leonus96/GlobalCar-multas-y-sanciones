@@ -3,8 +3,13 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="com.leonus96.joseph.tablistview.MainActivity">
     <item
-        android:id="@+id/action_settings"
+        android:id="@+id/action_web"
         android:orderInCategory="100"
-        android:title="@string/action_settings"
+        android:title="Visita nuestra página web"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_sistema_puntos"
+        android:orderInCategory="100"
+        android:title="Sistema de puntos"
         app:showAsAction="never" />
 </menu>

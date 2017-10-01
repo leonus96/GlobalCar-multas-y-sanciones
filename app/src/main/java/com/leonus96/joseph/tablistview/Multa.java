@@ -12,17 +12,17 @@ public class Multa {
     private String codigo;
     private String infraccion;
     private String tipo;
-    private float monto;
+    private float pMonto;
     private float conDescuento;
     private String sancion;
     private int puntos;
     private String medidaPreventiva;
 
-    public Multa(int puntos, String infraccion, String tipo, float monto, float conDescuento, String sancion, String codigo) {
+    public Multa(int puntos, String infraccion, String tipo, float pMonto, float conDescuento, String sancion, String codigo) {
         this.puntos = puntos;
         this.infraccion = infraccion;
         this.tipo = tipo;
-        this.monto = monto;
+        this.pMonto = pMonto;
         this.conDescuento = conDescuento;
         this.sancion = sancion;
         this.codigo = codigo;
@@ -32,7 +32,7 @@ public class Multa {
         this.codigo = jsonObject.getString("codigo");
         this.infraccion = jsonObject.getString("infraccion");
         this.tipo = jsonObject.getString("tipo");
-        this.monto = Float.parseFloat(jsonObject.getString("monto"));
+        this.pMonto = Float.parseFloat(jsonObject.getString("pMonto"));
         this.conDescuento = Float.parseFloat(jsonObject.getString("con_descuento"));
         this.sancion = jsonObject.getString("sancion");
         this.puntos = jsonObject.getInt("puntos");
@@ -63,12 +63,12 @@ public class Multa {
         this.tipo = tipo;
     }
 
-    public float getMonto() {
-        return monto;
+    public float getpMonto() {
+        return pMonto;
     }
 
-    public void setMonto(float monto) {
-        this.monto = monto;
+    public void setpMonto(float pMonto) {
+        this.pMonto = pMonto;
     }
 
     public float getConDescuento() {

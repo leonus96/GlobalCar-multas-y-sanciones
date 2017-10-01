@@ -31,6 +31,7 @@ import java.util.List;
 public class fragmentList extends Fragment {
     // TODO: Rename and change types of parameters
     private static final String ARG_SECTION_NUMBER = "section_number";
+    private static final int UIT = 4050;
 
     public fragmentList() {
         // Required empty public constructor
@@ -59,6 +60,8 @@ public class fragmentList extends Fragment {
         final List<Multa> multasLeves =  convertJSONToObjects(json, 1);
         final List<Multa> multasGraves = convertJSONToObjects(json, 2);
         final List<Multa> multasMuyGraves = convertJSONToObjects(json, 3);
+
+        System.out.println(multasGraves.size());
 
         ListViewAdapter adapterList;
 
@@ -158,18 +161,18 @@ public class fragmentList extends Fragment {
     public AlertDialog createDialog(Multa multa, View dialogo) {
         final AlertDialog.Builder builder = new AlertDialog.Builder(getActivity());
         TextView infraccion = (TextView) dialogo.findViewById(R.id.infraccion);
-        TextView monto = (TextView) dialogo.findViewById(R.id.monto);
+        TextView pMonto = (TextView) dialogo.findViewById(R.id.monto);
         TextView uit = (TextView) dialogo.findViewById(R.id.uit);
         TextView puntos = (TextView) dialogo.findViewById(R.id.puntos);
         TextView descuento = (TextView) dialogo.findViewById(R.id.descuento);
         TextView medidadPreventiva = (TextView) dialogo.findViewById(R.id.medida_preventiva);
 
         infraccion.setText(multa.getInfraccion());
-        monto.setText("S./ " + multa.getMonto() + "0");
-        uit.setText(" ("+ multa.getMonto()*100/3950 + "% del UIT).");
+        pMonto.setText("S./ " + UIT/100 * multa.getpMonto() + "0");
+        uit.setText(" ("+ multa.getpMonto() + "% del UIT).");
         puntos.setText("+" + multa.getPuntos() + " puntos a su record.");
-        if (!(multa.getMonto() == multa.getConDescuento())){
-            descuento.setText("S./ " + multa.getConDescuento() + " (" +  multa.getConDescuento()*100/multa.getMonto() + "%) hasta en 5 dias.");
+        if (!(multa.getpMonto() == multa.getConDescuento())){
+            descuento.setText("S./ " + multa.getConDescuento() + " hasta en 5 dias.");
         }
         if(!multa.getMedidaPreventiva().equals("")){
             medidadPreventiva.setText(multa.getMedidaPreventiva());

@@ -1,5 +1,7 @@
 package com.leonus96.joseph.tablistview;
 
+import android.content.Intent;
+import android.net.Uri;
 import android.support.design.widget.TabLayout;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
@@ -48,12 +50,12 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-    /*@Override
+    @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
         getMenuInflater().inflate(R.menu.menu_main, menu);
         return true;
-    }*/
+    }
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
@@ -63,11 +65,22 @@ public class MainActivity extends AppCompatActivity {
         int id = item.getItemId();
 
         //noinspection SimplifiableIfStatement
-        if (id == R.id.action_settings) {
-            return true;
+        if (id == R.id.action_sistema_puntos) {
+            Intent mtcIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://globalcar.pe"));
+            startActivity(mtcIntent);
+        }
+        if(id==R.id.action_web){
+            Intent webIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://slcp.mtc.gob.pe"));
+            startActivity(webIntent);
         }
 
         return super.onOptionsItemSelected(item);
+    }
+
+    @Override
+    public void onBackPressed() {
+        super.onBackPressed();
+        moveTaskToBack(true);
     }
 
     /**
