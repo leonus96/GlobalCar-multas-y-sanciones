@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
         getSupportActionBar().setDisplayShowHomeEnabled(true);
-        getSupportActionBar().setIcon(R.mipmap.ic_launcherwhite);
+        getSupportActionBar().setIcon(R.mipmap.ic_launcher);
         getSupportActionBar().setTitle("    Multas y sanciones");
         // Create the adapter that will return a fragment for each of the three
         // primary sections of the activity.
