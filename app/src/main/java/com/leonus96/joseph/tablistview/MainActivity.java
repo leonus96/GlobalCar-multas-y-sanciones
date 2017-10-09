@@ -70,7 +70,7 @@ public class MainActivity extends AppCompatActivity {
                         startActivity(webIntent);
                         break;
                     case R.id.fab_points:
-                        Intent browser = new Intent(Intent.ACTION_VIEW, Uri.parse("http://http://slcp.mtc.gob.pe"));
+                        Intent browser = new Intent(Intent.ACTION_VIEW, Uri.parse("http://slcp.mtc.gob.pe"));
                         startActivity(browser);
                         break;
                     default:
