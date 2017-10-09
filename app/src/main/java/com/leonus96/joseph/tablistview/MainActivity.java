@@ -3,11 +3,9 @@ package com.leonus96.joseph.tablistview;
 import android.content.Intent;
 import android.net.Uri;
 import android.support.design.widget.TabLayout;
-import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
-
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
@@ -15,7 +13,11 @@ import android.support.v4.view.ViewPager;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.MotionEvent;
 import android.view.View;
+import android.widget.Toast;
+
+import com.github.ag.floatingactionmenu.OptionsFabLayout;
 
 import layout.fragmentList;
 
@@ -36,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
         setSupportActionBar(toolbar);
         getSupportActionBar().setDisplayShowHomeEnabled(true);
         getSupportActionBar().setIcon(R.mipmap.ic_launcher);
-        getSupportActionBar().setTitle("    Multas y sanciones");
+        getSupportActionBar().setTitle("    Info Infracciones Perú");
         // Create the adapter that will return a fragment for each of the three
         // primary sections of the activity.
         mSectionsPagerAdapter = new SectionsPagerAdapter(getSupportFragmentManager());
@@ -47,34 +49,35 @@ public class MainActivity extends AppCompatActivity {
 
         TabLayout tabLayout = (TabLayout) findViewById(R.id.tabs);
         tabLayout.setupWithViewPager(mViewPager);
-    }
 
+        OptionsFabLayout ofab = (OptionsFabLayout) findViewById(R.id.menu_fab);
+        ofab.setMiniFabsColors(R.color.colorAccent, R.color.colorAccent);
 
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        // Inflate the menu; this adds items to the action bar if it is present.
-        getMenuInflater().inflate(R.menu.menu_main, menu);
-        return true;
-    }
+        ofab.setMainFabOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                //Toast.makeText(MainActivity.this, "Main fab clicked!", Toast.LENGTH_SHORT).show();
+            }
+        });
 
-    @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
-        // Handle action bar item clicks here. The action bar will
-        // automatically handle clicks on the Home/Up button, so long
-        // as you specify a parent activity in AndroidManifest.xml.
-        int id = item.getItemId();
-
-        //noinspection SimplifiableIfStatement
-        if (id == R.id.action_sistema_puntos) {
-            Intent mtcIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://globalcar.pe"));
-            startActivity(mtcIntent);
-        }
-        if(id==R.id.action_web){
-            Intent webIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://slcp.mtc.gob.pe"));
-            startActivity(webIntent);
-        }
-
-        return super.onOptionsItemSelected(item);
+        //Set mini fabs clicklisteners.
+        ofab.setMiniFabSelectedListener(new OptionsFabLayout.OnMiniFabSelectedListener() {
+            @Override
+            public void onMiniFabSelected(MenuItem fabItem) {
+                switch (fabItem.getItemId()) {
+                    case R.id.fab_web:
+                        Intent webIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("http://globalcar.pe"));
+                        startActivity(webIntent);
+                        break;
+                    case R.id.fab_points:
+                        Intent browser = new Intent(Intent.ACTION_VIEW, Uri.parse("http://http://slcp.mtc.gob.pe"));
+                        startActivity(browser);
+                        break;
+                    default:
+                        break;
+                }
+            }
+        });
     }
 
     @Override

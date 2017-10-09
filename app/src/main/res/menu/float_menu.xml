@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/fab_web"
+        android:icon="@drawable/ic_web"
+        android:title="Visita nuestra web" />
+
+    <item
+        android:id="@+id/fab_points"
+        android:icon="@drawable/ic_puntos"
+        android:title="Sistema de licencias por puntos" />
+</menu>

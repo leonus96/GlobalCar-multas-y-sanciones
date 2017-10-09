@@ -10,6 +10,6 @@
     <item
         android:id="@+id/action_sistema_puntos"
         android:orderInCategory="100"
-        android:title="Sistema de puntos"
+        android:title="Sist. de licencias por puntos"
         app:showAsAction="never" />
 </menu>
