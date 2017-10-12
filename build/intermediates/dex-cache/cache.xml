@@ -2,150 +2,6 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="/home/joseph/.android/build-cache/c71f3652355ca0427d6e1aebb02ce7c6b21b6207/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
-        <dex dex="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/pre-dexed/release/classes_8d802f16faa2d6873ce9d933ef186cb838fb43b6.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/joseph/.android/build-cache/da6e47529bad9aa2dd903ab4011ebbd64821b7ec/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
-        <dex dex="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cec6b9dc88c8098205987d37ec372393096993b0/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/joseph/.android/build-cache/5b958720cbbf4587101b3d0e0173162db685f4dc/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
-        <dex dex="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bb605a3ce8527eb5c3b846e4310a0bea9681f518/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/joseph/.android/build-cache/8749391435bed12db83dcc553bb2ca0b8dd9df92/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
-        <dex dex="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/pre-dexed/release/classes_d0c0a95cd77a77ad33f40208c084d1c6aecc5a20.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/joseph/.android/build-cache/fb53457ee590854c94793e83ef481f87ffc699ad/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
-        <dex dex="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_72e7a1b5dd24687c3fdc6758fe0a5d4e3790116d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/joseph/.android/build-cache/c84f136ec5a57a8ee423a82b91cacd2313bd6247/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
-        <dex dex="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_538bd51abb62378bd05657618211f13bf6a0bd76/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/joseph/.android/build-cache/54379f9fcb38c5add669587660bfb65dedb45c93/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
-        <dex dex="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_311926bf7a17a4c2dacd4986d2ca95dfc5483e82/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/joseph/.android/build-cache/633a9d5fa96d1c1d0d77707162aaf6d96c924160/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
-        <dex dex="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/pre-dexed/release/classes_9400647af8aa1f36b6aade6c4e365ae42e48ffb4.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/joseph/.android/build-cache/7b63593eb8a6f3705e7716fcb12a4a01b22a64de/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9e2fcbc57322d3206bf8c5aa1287b005c92e809e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d3efaca6f9037d760b73197367f429e3350b62f3">
-        <dex dex="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_834ec4dd037452c9c096113eb9bb67a7a8816d4a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/joseph/.android/build-cache/528e14db0f0daa04cd0f62a0d5812725cbda4ae2/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
-        <dex dex="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_25d01b6acf2371270ba731c1114d0d1cbda71270/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/joseph/.android/build-cache/42abf0537f2144d97a45135badef8425b946433c/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
-        <dex dex="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/pre-dexed/release/classes_09f791d59f22987429c8be740a00fdcc980f3f10.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/joseph/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
-        <dex dex="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/pre-dexed/release/support-annotations-25.1.1_d0db581509c52088ab0ff4c2f92c4b29cd90e379.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/joseph/.android/build-cache/57d8463cabd321529c574112bab60cf95a5bc069/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
-        <dex dex="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/pre-dexed/release/classes_22e257c668051669af1e94e3d431ecb458bbda70.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/joseph/.android/build-cache/9f5a32ffb8a0b4be05d812fa0d86a505fb9729be/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
-        <dex dex="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3ef2452ace0eaec799197608b4415ae91d4ecbfe/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/joseph/.android/build-cache/d96c7c3d46f75092f28c63405e29343f5e03db21/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="7f8f1400d2946034f10eb80a68332b6a48488197">
-        <dex dex="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/pre-dexed/release/classes_2ebe5e6c8ae6594dc48ad3a6b7e8bd0f10db8f4f.jar" />
-    </item>
-    <item
         is-multidex="true"
         jar="/home/joseph/.android/build-cache/c71f3652355ca0427d6e1aebb02ce7c6b21b6207/output/jars/classes.jar"
         jumboMode="true"
@@ -153,6 +9,15 @@
         revision="25.0.0"
         sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
         <dex dex="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8d802f16faa2d6873ce9d933ef186cb838fb43b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/joseph/.android/build-cache/c71f3652355ca0427d6e1aebb02ce7c6b21b6207/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/pre-dexed/release/classes_8d802f16faa2d6873ce9d933ef186cb838fb43b6.jar" />
     </item>
     <item
         is-multidex="true"
@@ -192,12 +57,57 @@
     </item>
     <item
         is-multidex="true"
+        jar="/home/joseph/.android/build-cache/da6e47529bad9aa2dd903ab4011ebbd64821b7ec/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cec6b9dc88c8098205987d37ec372393096993b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joseph/.android/build-cache/5b958720cbbf4587101b3d0e0173162db685f4dc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bb605a3ce8527eb5c3b846e4310a0bea9681f518/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/joseph/.android/build-cache/8749391435bed12db83dcc553bb2ca0b8dd9df92/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
         <dex dex="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d0c0a95cd77a77ad33f40208c084d1c6aecc5a20/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/joseph/.android/build-cache/8749391435bed12db83dcc553bb2ca0b8dd9df92/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/pre-dexed/release/classes_d0c0a95cd77a77ad33f40208c084d1c6aecc5a20.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joseph/.android/build-cache/fb53457ee590854c94793e83ef481f87ffc699ad/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_72e7a1b5dd24687c3fdc6758fe0a5d4e3790116d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joseph/.android/build-cache/c84f136ec5a57a8ee423a82b91cacd2313bd6247/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_538bd51abb62378bd05657618211f13bf6a0bd76/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -227,6 +137,33 @@
         <dex dex="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0c0ce9ed0c409160935eb1103c8a17138a0e396c/classes.dex" />
     </item>
     <item
+        is-multidex="true"
+        jar="/home/joseph/.android/build-cache/54379f9fcb38c5add669587660bfb65dedb45c93/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_311926bf7a17a4c2dacd4986d2ca95dfc5483e82/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/joseph/.android/build-cache/633a9d5fa96d1c1d0d77707162aaf6d96c924160/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/pre-dexed/release/classes_9400647af8aa1f36b6aade6c4e365ae42e48ffb4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joseph/.android/build-cache/7b63593eb8a6f3705e7716fcb12a4a01b22a64de/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9e2fcbc57322d3206bf8c5aa1287b005c92e809e/classes.dex" />
+    </item>
+    <item
         is-multidex="false"
         jar="/home/joseph/.android/build-cache/7b63593eb8a6f3705e7716fcb12a4a01b22a64de/output/jars/classes.jar"
         jumboMode="false"
@@ -234,6 +171,33 @@
         revision="25.0.0"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
         <dex dex="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/pre-dexed/release/classes_9e2fcbc57322d3206bf8c5aa1287b005c92e809e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9a2a16738944129c9fbfb28ab94b3cc7f37ae560">
+        <dex dex="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_834ec4dd037452c9c096113eb9bb67a7a8816d4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/joseph/.android/build-cache/528e14db0f0daa04cd0f62a0d5812725cbda4ae2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_25d01b6acf2371270ba731c1114d0d1cbda71270/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/joseph/.android/build-cache/42abf0537f2144d97a45135badef8425b946433c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/pre-dexed/release/classes_09f791d59f22987429c8be740a00fdcc980f3f10.jar" />
     </item>
     <item
         is-multidex="true"
@@ -263,6 +227,24 @@
         <dex dex="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/pre-dexed/release/classes_25d01b6acf2371270ba731c1114d0d1cbda71270.jar" />
     </item>
     <item
+        is-multidex="false"
+        jar="/home/joseph/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/pre-dexed/release/support-annotations-25.1.1_d0db581509c52088ab0ff4c2f92c4b29cd90e379.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/joseph/.android/build-cache/57d8463cabd321529c574112bab60cf95a5bc069/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/pre-dexed/release/classes_22e257c668051669af1e94e3d431ecb458bbda70.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="/home/joseph/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
         jumboMode="true"
@@ -272,6 +254,15 @@
         <dex dex="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_d0db581509c52088ab0ff4c2f92c4b29cd90e379/classes.dex" />
     </item>
     <item
+        is-multidex="true"
+        jar="/home/joseph/.android/build-cache/9f5a32ffb8a0b4be05d812fa0d86a505fb9729be/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3ef2452ace0eaec799197608b4415ae91d4ecbfe/classes.dex" />
+    </item>
+    <item
         is-multidex="false"
         jar="/home/joseph/.android/build-cache/9f5a32ffb8a0b4be05d812fa0d86a505fb9729be/output/jars/classes.jar"
         jumboMode="false"
@@ -279,6 +270,15 @@
         revision="25.0.0"
         sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
         <dex dex="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/pre-dexed/release/classes_3ef2452ace0eaec799197608b4415ae91d4ecbfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/joseph/.android/build-cache/d96c7c3d46f75092f28c63405e29343f5e03db21/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7f8f1400d2946034f10eb80a68332b6a48488197">
+        <dex dex="/home/joseph/MEGA/Desktop/Proyectos/GlobalCar-multas-y-sanciones/app/build/intermediates/pre-dexed/release/classes_2ebe5e6c8ae6594dc48ad3a6b7e8bd0f10db8f4f.jar" />
     </item>
     <item
         is-multidex="true"

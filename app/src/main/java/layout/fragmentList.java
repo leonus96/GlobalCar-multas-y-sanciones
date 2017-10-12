@@ -31,7 +31,7 @@ import java.util.List;
 public class fragmentList extends Fragment {
     // TODO: Rename and change types of parameters
     private static final String ARG_SECTION_NUMBER = "section_number";
-    private static final int UIT = 4050;
+    private static final double UIT = 4050;
 
     public fragmentList() {
         // Required empty public constructor
