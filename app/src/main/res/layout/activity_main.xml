@@ -56,6 +56,7 @@
         custom:options_menu="@menu/float_menu"
         custom:src="@drawable/ic_add"
         android:layout_marginBottom="60dp"
+        app:background_color="#0000"
         />
 
     <RelativeLayout

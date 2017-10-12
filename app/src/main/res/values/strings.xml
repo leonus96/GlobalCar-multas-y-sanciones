@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Info Infracciones Perú</string>
     <string name="action_settings">Opciones</string>
+    <string name="developed_by_grupo_car">Developed by Grupo Car.</string>
 </resources>

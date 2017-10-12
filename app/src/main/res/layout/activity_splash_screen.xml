@@ -33,7 +33,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Developed by Grupo Car."
+        android:text="@string/developed_by_grupo_car"
         android:layout_centerHorizontal="true"
         android:textColor="#000"
         android:layout_alignParentBottom="true"/>

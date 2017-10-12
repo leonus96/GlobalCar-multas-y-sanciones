@@ -23,6 +23,8 @@ import layout.fragmentList;
 
 public class MainActivity extends AppCompatActivity {
 
+    //private boolean fabHandler;
+
 
     private SectionsPagerAdapter mSectionsPagerAdapter;
 
@@ -50,13 +52,16 @@ public class MainActivity extends AppCompatActivity {
         TabLayout tabLayout = (TabLayout) findViewById(R.id.tabs);
         tabLayout.setupWithViewPager(mViewPager);
 
-        OptionsFabLayout ofab = (OptionsFabLayout) findViewById(R.id.menu_fab);
+        final OptionsFabLayout ofab = (OptionsFabLayout) findViewById(R.id.menu_fab);
         ofab.setMiniFabsColors(R.color.colorAccent, R.color.colorAccent);
 
+        //fabHandler = false;
         ofab.setMainFabOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                //Toast.makeText(MainActivity.this, "Main fab clicked!", Toast.LENGTH_SHORT).show();
+            if(ofab.isOptionsMenuOpened()){
+                ofab.closeOptionsMenu();
+            }            //fabHandler = !fabHandler;
             }
         });
 
