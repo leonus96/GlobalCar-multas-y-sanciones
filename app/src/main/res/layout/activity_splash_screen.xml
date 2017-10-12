@@ -12,14 +12,31 @@
     android:background="@color/colorPrimary">
 
     <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@mipmap/titlesplash"
+        android:scaleY="0.8"
+        android:scaleX="0.8"
+        android:layout_marginTop="60dp"/>
+
+    <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/imageView"
-        android:layout_centerVertical="true"
         android:layout_centerHorizontal="true"
         android:src="@drawable/global"
         android:scaleX="0.5"
         android:scaleY="0.5"
+        android:layout_marginTop="60dp"
         />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Developed by Grupo Car."
+        android:layout_centerHorizontal="true"
+        android:textColor="#000"
+        android:layout_alignParentBottom="true"/>
+
 
 </RelativeLayout>
