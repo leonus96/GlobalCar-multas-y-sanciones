@@ -61,7 +61,8 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
             if(ofab.isOptionsMenuOpened()){
                 ofab.closeOptionsMenu();
-            }            //fabHandler = !fabHandler;
+            }
+            //fabHandler = !fabHandler;
             }
         });
 
